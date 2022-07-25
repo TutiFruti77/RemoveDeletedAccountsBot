@@ -42,4 +42,4 @@ admins = 12346789  # Any "admins" for the bot that will be able to reload the pl
 
 *  Use something like tmux: `tmux new -ds AntiDeletedAccountsBot "python3 stdbot.py"`
 
-See running example on Telegram [@RemoveDeletedAccounts_bot)(http://t.me/RemoveDeletedAccounts_bot)
+See running example on Telegram (@RemoveDeletedAccounts_bot)(http://t.me/RemoveDeletedAccounts_bot)
