@@ -1,4 +1,4 @@
-# AntiDeletedAccountsBot (ADAB)
+# RemoveDeletedAccountsBot (ADAB)
 Automatically kick deleted accounts
 
 Based on [uniborg](Qwerty-Space/uniborg), a pluggable 
@@ -42,4 +42,4 @@ admins = 12346789  # Any "admins" for the bot that will be able to reload the pl
 
 *  Use something like tmux: `tmux new -ds AntiDeletedAccountsBot "python3 stdbot.py"`
 
-See running example on Telegram [@AntiDeletedAccounts_Bot](https://t.me/AntiDeletedAccounts_Bot)
+See running example on Telegram [@RemoveDeletedAccounts_bot](https://t.me/@RemoveDeletedAccounts_bot)
